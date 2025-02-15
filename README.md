@@ -1,6 +1,13 @@
-## Greetings! 👋
+## Greetings! Welcome to my Github!
 
-Welcome to my page!
+## About me
+
+I am an undergraduate student at the University of Tennessee, Knoxville studying Geographic Information Science and Technologies. My main research focuses are centered around terrain analysis and remote sensing. 
+
+## Research Interests
+
+My current primary research focus is on the rapid coastal erosion, land loss, and terrain changes happening in the Outer Banks island chain off the Eastern Shore of the United States. 
+
 
 <!--
 **acpotgieter/acpotgieter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
