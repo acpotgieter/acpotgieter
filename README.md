@@ -2,11 +2,11 @@
 
 ## About me
 
-I am an undergraduate student at the University of Tennessee, Knoxville studying Geographic Information Science and Technologies. My main research focuses are centered around terrain analysis and remote sensing. 
+I am a student at the University of Tennessee, Knoxville studying Geographic Information Science and Technologies. My main research focuses are centered around terrain analysis and remote sensing. 
 
 ## Research Interests
 
-My current primary research focus is on the rapid coastal erosion, land loss, and terrain changes happening in the Outer Banks island chain off the Eastern Shore of the United States. 
+My current primary research focus is on the rapid coastal erosion, land loss, and terrain changes happening in the Outer Banks island chain off the Eastern Shore of the United States. I have also worked on research in other coaststal regions studying coastal treeline recession and the effects. 
 
 
 <!--
